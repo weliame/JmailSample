@@ -1,0 +1,5 @@
+#!/bin/sh
+# UW IMAP doesn't support UIDPLUS
+# test using Cyrus
+java copyuid -D -L "imap://testuser:mail'r'us@datsunx:9143" -f INBOX.copyuid
+

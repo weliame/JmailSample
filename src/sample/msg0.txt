@@ -1,0 +1,481 @@
+Received: from G5W5498.americas.hpqcorp.net (16.201.144.178) by
+ G4W6304.americas.hpqcorp.net (16.210.26.229) with Microsoft SMTP Server (TLS)
+ id 14.3.169.1; Mon, 11 Aug 2014 09:22:47 +0000
+Received: from G5W2718.americas.hpqcorp.net ([169.254.1.129]) by
+ G5W5498.americas.hpqcorp.net ([16.201.144.178]) with mapi id 14.03.0169.001;
+ Mon, 11 Aug 2014 09:22:46 +0000
+From: "PR, Vineeth Krishnan" <vineeth-krishnan.pr@hp.com>
+To: gbstesting53 <gbstesting53@hp.com>
+Subject: 
+ =?gb2312?B?Rlc6IEhQIFNtYXJ0IFF1b3RlIIyjsLiDcrjxyerViCAoyerViL6OzJajulNR?=
+ =?gb2312?B?LTMzMDMxMTKjrL1LtsvTw5H0o7rM0ohAh/jrSJlDiPa5ybfd09DP3rmry74=?=
+ =?gb2312?B?o6y9m+ROycyjushB64rCk75Xucm33dPQz965q8u+KSDS0b2b08m0+sDtycwg?=
+ =?gb2312?B?KL6rvLzrisRYucm33dPQz965q8u+KSC0+p7p1tjQwszhvbvNqNaq?=
+Thread-Topic: 
+ =?gb2312?B?SFAgU21hcnQgUXVvdGUgjKOwuINyuPHJ6tWIICjJ6tWIvo7MlqO6U1EtMzMw?=
+ =?gb2312?B?MzExMqOsvUu2y9PDkfSjuszSiECH+OtImUOI9rnJt93T0M/euavLvqOsvZs=?=
+ =?gb2312?B?5E7JzKO6yEHrisKTvle5ybfd09DP3rmry74pINLRvZvTybT6wO3JzCAovqs=?=
+ =?gb2312?B?vLzrisRYucm33dPQz965q8u+KSC0+p7p1tjQwszhvbvNqNaq?=
+Thread-Index: AQHPoAklhAuQvGItIEiuwPflO7EA6Jug9H4ggAfZxaCAABF4sIAia8KQ
+Date: Mon, 11 Aug 2014 09:22:46 +0000
+Message-ID: <16662014.0.1408656418926@datsunx>
+References: <4518ebfd.79cd.1473932992e.Coremail.clara6688@126.com>   <PMT_IDENTIFICATION_NO=4699385>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: G5W5498.americas.hpqcorp.net
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/mixed;
+	boundary="_002_AD5BEBE1E14D8041B8B6BE1545C838EB0C525D4FG5W2718americas_"
+MIME-Version: 1.0
+
+--_002_AD5BEBE1E14D8041B8B6BE1545C838EB0C525D4FG5W2718americas_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+=09{font-family:SimSun;
+=09panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+=09{font-family:PMingLiU;
+=09panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+=09{font-family:"Cambria Math";
+=09panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+=09{font-family:"\@SimSun";
+=09panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+=09{font-family:Consolas;
+=09panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+=09{font-family:"\@PMingLiU";
+=09panose-1:2 2 5 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0in;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:SimSun;
+=09mso-fareast-language:ZH-CN;}
+a:link, span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:#0563C1;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:#954F72;
+=09text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+=09{mso-style-priority:99;
+=09mso-style-link:"Plain Text Char";
+=09mso-margin-top-alt:auto;
+=09margin-right:0in;
+=09mso-margin-bottom-alt:auto;
+=09margin-left:0in;
+=09font-size:12.0pt;
+=09font-family:SimSun;
+=09mso-fareast-language:ZH-CN;}
+span.PlainTextChar
+=09{mso-style-name:"Plain Text Char";
+=09mso-style-priority:99;
+=09mso-style-link:"Plain Text";
+=09font-family:Consolas;
+=09mso-fareast-language:ZH-CN;}
+span.EmailStyle19
+=09{mso-style-type:personal;
+=09font-family:"Calibri","sans-serif";
+=09color:#1F497D;}
+span.EmailStyle20
+=09{mso-style-type:personal;
+=09font-family:"Calibri","sans-serif";
+=09color:#1F497D;}
+span.EmailStyle21
+=09{mso-style-type:personal;
+=09font-family:"Calibri","sans-serif";
+=09color:#1F497D;}
+span.EmailStyle22
+=09{mso-style-type:personal-reply;
+=09font-family:"Calibri","sans-serif";
+=09color:#1F497D;}
+.MsoChpDefault
+=09{mso-style-type:export-only;
+=09font-size:10.0pt;}
+@page WordSection1
+=09{size:8.5in 11.0in;
+=09margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+=09{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> PR, Vi=
+neeth Krishnan
+<br>
+<b>Sent:</b> Sunday, July 20, 2014 5:16 PM<br>
+<b>To:</b> gbstesting33<br>
+<b>Subject:</b> FW: HP Smart Quote </span><span lang=3D"ZH-CN" style=3D"fon=
+t-size:11.0pt">?=B0=B8?=B8=F1=C9=EA?</span><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> (</span><span lang=
+=3D"ZH-CN" style=3D"font-size:11.0pt">=C9=EA???=A3=BA</span><span style=3D"=
+font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">SQ=
+-3303112</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=A3=AC?=B6=
+=CB=D3=C3?=A3=BA=CC=D2?????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE=A3=AC??=C9=
+=CC=A3=BA????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=D2=D1?=D3=C9=B4=FA=
+=C0=ED=C9=CC</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;"> (</span><span lang=3D"ZH-CN" style=3D"font=
+-size:11.0pt">=BE=AB=BC=BC??=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=B4=FA?=D6=D8=D0=C2=
+=CC=E1=BD=BB=CD=A8=D6=AA</span><span style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> PR, Vi=
+neeth Krishnan
+<br>
+<b>Sent:</b> Sunday, July 20, 2014 4:12 PM<br>
+<b>To:</b> gbstesting31<br>
+<b>Subject:</b> FW: HP Smart Quote </span><span lang=3D"ZH-CN" style=3D"fon=
+t-size:11.0pt">?=B0=B8?=B8=F1=C9=EA?</span><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> (</span><span lang=
+=3D"ZH-CN" style=3D"font-size:11.0pt">=C9=EA???=A3=BA</span><span style=3D"=
+font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">SQ=
+-3303112</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=A3=AC?=B6=
+=CB=D3=C3?=A3=BA=CC=D2?????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE=A3=AC??=C9=
+=CC=A3=BA????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=D2=D1?=D3=C9=B4=FA=
+=C0=ED=C9=CC</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;"> (</span><span lang=3D"ZH-CN" style=3D"font=
+-size:11.0pt">=BE=AB=BC=BC??=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=B4=FA?=D6=D8=D0=C2=
+=CC=E1=BD=BB=CD=A8=D6=AA</span><span style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+">Prod-3<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> PR, Vi=
+neeth Krishnan
+<br>
+<b>Sent:</b> Tuesday, July 15, 2014 4:19 PM<br>
+<b>To:</b> gbstesting53; Thirumoorthi, Gunasekaran; Prasad, Hari (HPIT-GADS=
+C-India)<br>
+<b>Subject:</b> RE: HP Smart Quote </span><span lang=3D"ZH-CN" style=3D"fon=
+t-size:11.0pt">?=B0=B8?=B8=F1=C9=EA?</span><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> (</span><span lang=
+=3D"ZH-CN" style=3D"font-size:11.0pt">=C9=EA???=A3=BA</span><span style=3D"=
+font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">SQ=
+-3303112</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=A3=AC?=B6=
+=CB=D3=C3?=A3=BA=CC=D2?????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE=A3=AC??=C9=
+=CC=A3=BA????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=D2=D1?=D3=C9=B4=FA=
+=C0=ED=C9=CC</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;"> (</span><span lang=3D"ZH-CN" style=3D"font=
+-size:11.0pt">=BE=AB=BC=BC??=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=B4=FA?=D6=D8=D0=C2=
+=CC=E1=BD=BB=CD=A8=D6=AA</span><span style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+">FYI<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=D5=C5=D0=C2=D3=B1</=
+span><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;"> [<a href=3D"mailto:clara6688@126.com">mailto:clara6688@1=
+26.com</a>]
+<br>
+<b>Sent:</b> Tuesday, July 15, 2014 2:15 PM<br>
+<b>To:</b> gbstesting53; Zhang, Xinying (Clara,GBS-DL); Bindagi, Gururaj<br=
+>
+<b>Subject:</b> HP Smart Quote </span><span lang=3D"ZH-CN" style=3D"font-si=
+ze:11.0pt">?=B0=B8?=B8=F1=C9=EA?</span><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> (</span><span lang=3D"=
+ZH-CN" style=3D"font-size:11.0pt">=C9=EA???=A3=BA</span><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">SQ-330=
+3112</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=A3=AC?=B6=CB=D3=
+=C3?=A3=BA=CC=D2?????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE=A3=AC??=C9=CC=A3=
+=BA????=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><span style=3D"font-size:=
+11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=D2=D1?=D3=C9=B4=FA=
+=C0=ED=C9=CC</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;"> (</span><span lang=3D"ZH-CN" style=3D"font=
+-size:11.0pt">=BE=AB=BC=BC??=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:11.0pt">=B4=FA?=D6=D8=D0=C2=
+=CC=E1=BD=BB=CD=A8=D6=AA</span><span style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color=
+:black">??=B5=C4??=C9=CC=A3=BA</span><span style=3D"font-size:10.5pt;font-f=
+amily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></sp=
+an></p>
+</div>
+<div id=3D"isForwardContent">
+<div>
+<div id=3D"isForwardContent">
+<div>
+<p class=3D"MsoPlainText"><span style=3D"font-size:10.5pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;<o:p></o:p></span></=
+p>
+<p class=3D"MsoPlainText"><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;co=
+lor:black">=C4=FA=D6=B8=C5=C9=B5=C4=B4=FA=C0=ED=C9=CC</span><span style=3D"=
+font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color=
+:black"> (</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black=
+">=BE=AB=BC=BC??=B9=C9=B7=DD=D3=D0=CF=DE=B9=AB=CB=BE</span><span style=3D"f=
+ont-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:=
+black">)
+</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black">=D2=D1=
+=B4=FA=B1=ED=C4=FA=D6=D8=D0=C2=CC=E1=BD=BB</span><span style=3D"font-size:1=
+0.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"> Sm=
+art Quote
+</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black">?=B0=B8?=
+=B8=F1=C9=EA?</span><span style=3D"font-size:10.5pt;font-family:&quot;Arial=
+&quot;,&quot;sans-serif&quot;;color:black"> (</span><span lang=3D"ZH-CN" st=
+yle=3D"font-size:10.5pt;color:black">=C9=EA???=A3=BA</span><span style=3D"f=
+ont-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:=
+black">SQ-3303112</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;colo=
+r:black">=A3=AC?=B6=CB=D3=C3?=A3=BA=CC=D2?????=B9=C9=B7=DD=D3=D0=CF=DE=B9=
+=AB=CB=BE</span><span style=3D"font-size:10.5pt;font-family:&quot;Arial&quo=
+t;,&quot;sans-serif&quot;;color:black">)</span><span lang=3D"ZH-CN" style=
+=3D"font-size:10.5pt;color:black">=A1=A3</span><span style=3D"font-size:10.=
+5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>=
+</o:p></span></p>
+<p class=3D"MsoPlainText"><span style=3D"font-size:10.5pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;<o:p></o:p></span></=
+p>
+<p class=3D"MsoPlainText"><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;co=
+lor:black">=D6=AE=C7=B0=C4=FA=CB=F9=CA=D5=B5=BD=B5=C4=CB=F9=D3=D0=B0=E6=B1=
+=BE=B5=C4??=BE=F9=D2=D1=CA=A7=D0=A7=A1=A3</span><span style=3D"font-size:10=
+.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">HP
+</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black">=D5=FD=
+=D4=DA?=BA=CB=B4=CB=C9=EA?=A3=AC???=BF=EC=CD=A8=D6=AA=C4=FA?=BA=CB?=B9=FB=
+=A1=A3</span><span style=3D"font-size:10.5pt;font-family:&quot;Arial&quot;,=
+&quot;sans-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoPlainText"><span style=3D"font-size:10.5pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;<o:p></o:p></span></=
+p>
+<p class=3D"MsoPlainText"><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;co=
+lor:black">?=B5=C7=C8=EB</span><span style=3D"font-size:10.5pt;font-family:=
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"> HP SmartQuote
+</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black">=B9=A4=
+=BE=DF?=BD=E2=B8=FC=B6=E0?=B8=FC=B5=C4???=C1=CF=A1=A3</span><span style=3D"=
+font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color=
+:black"><o:p></o:p></span></p>
+<p class=3D"MsoPlainText"><span style=3D"font-size:10.5pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;<o:p></o:p></span></=
+p>
+<p class=3D"MsoPlainText"><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;co=
+lor:black">??=C9=CC=EC=F7</span><span style=3D"font-size:10.5pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></span></=
+p>
+<p class=3D"MsoPlainText"><span style=3D"font-size:10.5pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:black">HP Smart Quote
+</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black">=D6=A7=
+=D4=AE=D0=A1?</span><span style=3D"font-size:10.5pt;font-family:&quot;Arial=
+&quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoPlainText"><span style=3D"font-size:10.5pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:black">__________________________=
+____________________<o:p></o:p></span></p>
+<p class=3D"MsoPlainText"><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;co=
+lor:black">?=CA=C7</span><span style=3D"font-size:10.5pt;font-family:&quot;=
+Arial&quot;,&quot;sans-serif&quot;;color:black"> HP Smart Quote
+</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black">=CF=B5?=
+=D7=D4?</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;font-family:&q=
+uot;PMingLiU&quot;,&quot;serif&quot;;color:black">?=C9=FA=B5=C4?=D7=D3?=BC=
+=FE=A1=A3</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;font-family:=
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">
+</span><span style=3D"font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;=
+sans-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoPlainText"><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;co=
+lor:black">=C8=E7=D0=E8=C6=E4=CB=FB??=A3=AC???=B4=FA=C0=ED=C9=CC=BB=F2</spa=
+n><span style=3D"font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black"> HP
+</span><span lang=3D"ZH-CN" style=3D"font-size:10.5pt;color:black">??=B4=FA=
+=B1=ED=A1=A3</span><span style=3D"font-size:10.5pt;font-family:&quot;Arial&=
+quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-s=
+ize:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black=
+"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-s=
+ize:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black=
+"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+<html><head></head><body>[APPLICATION_ID=3D123456]</body></html>
+--_002_AD5BEBE1E14D8041B8B6BE1545C838EB0C525D4FG5W2718americas_
+Content-Type: message/rfc822
+Content-Disposition: attachment;
+	creation-date="Mon, 11 Aug 2014 09:22:44 GMT";
+	modification-date="Mon, 11 Aug 2014 09:22:44 GMT"
+
+From: "PR, Vineeth Krishnan" <vineeth-krishnan.pr@hp.com>
+To: gbstesting54 <gbstesting54@hp.com>
+Subject: 
+ =?iso-2022-jp?B?GyRCO2QkTyVhITwlayRLGyhCamFwYW5lc2UbJEIlRiUtJTklSCRyGyhC?=
+ =?iso-2022-jp?B?GyRCJUYlOSVIJDkkaxsoQg==?=
+Thread-Topic: 
+ =?iso-2022-jp?B?GyRCO2QkTyVhITwlayRLGyhCamFwYW5lc2UbJEIlRiUtJTklSCRyGyhC?=
+ =?iso-2022-jp?B?GyRCJUYlOSVIJDkkaxsoQg==?=
+Thread-Index: Ac+c+FdQk4PW2KQrRKiAycGdjpesAw==
+Date: Fri, 11 Jul 2014 11:08:03 +0000
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Content-Type: text/html; charset="iso-2022-jp"
+MIME-Version: 1.0
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal">私はメールにjapaneseテキストをテストする<span style="font-family:&quot;MS Gothic&quot;"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal">私はメールにjapaneseテキストをテストする<span style="font-family:&quot;MS Gothic&quot;"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal">私はメールにjapaneseテキストをテストする<span style="font-family:&quot;MS Gothic&quot;"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal">私はメールにjapaneseテキストをテストする<span style="font-family:&quot;MS Gothic&quot;"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal">私はメールにjapaneseテキストをテストする<span style="font-family:&quot;MS Gothic&quot;"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal">私はメールにjapaneseテキストをテストする<span style="font-family:&quot;MS Gothic&quot;"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;MS Gothic&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_002_AD5BEBE1E14D8041B8B6BE1545C838EB0C525D4FG5W2718americas_--

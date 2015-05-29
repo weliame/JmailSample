@@ -1,0 +1,26 @@
+diff -r 7f8091908b18 demo/src/main/java/msgshow.java
+--- a/demo/src/main/java/msgshow.java	Fri Jan 03 14:58:42 2014 -0800
++++ b/demo/src/main/java/msgshow.java	Fri Jan 31 11:26:17 2014 -0800
+@@ -110,6 +110,10 @@
+ 	try {
+ 	    // Get a Properties object
+ 	    Properties props = System.getProperties();
++	    if (showAlert) {
++		props.setProperty("mail.imap.enableresponseevents" ,"true");
++		props.setProperty("mail.imaps.enableresponseevents" ,"true");
++	    }
+ 
+ 	    // Get a Session object
+ 	    Session session = Session.getInstance(props, null);
+@@ -137,8 +141,10 @@
+ 			    String s;
+ 			    if (e.getMessageType() == StoreEvent.ALERT)
+ 				s = "ALERT: ";
++			    else if (e.getMessageType() == StoreEvent.NOTICE)
++				s = "NOTICE: ";
+ 			    else
+-				s = "NOTICE: ";
++				s = "RESPONSE[" + e.getMessageType() + "]: ";
+ 			    System.out.println(s + e.getMessage());
+ 			}
+ 		    });

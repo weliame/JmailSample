@@ -1,0 +1,1 @@
+java idlemonitor -D -L "imap://testuser:mail'r'us@datsunx"

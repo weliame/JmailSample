@@ -1,0 +1,2 @@
+#!/bin/sh
+java imapid -D -L "imap://tckuser:password@gotmail-ms2.us.oracle.com" "$@"
